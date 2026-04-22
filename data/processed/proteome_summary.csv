@@ -1,0 +1,4 @@
+organism,total_proteins,min_length,max_length,mean_length
+trypanosoma_cruzi,19245,18,4848,502.6
+leishmania_donovani,26348,8,18996,766.7
+schistosoma_mansoni,15303,6,9226,572.9
