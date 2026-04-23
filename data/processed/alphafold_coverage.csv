@@ -1,0 +1,4 @@
+organism,available_in_alphafold,not_available,coverage_percent
+trypanosoma_cruzi,100,0,100.0
+leishmania_donovani,94,6,94.0
+schistosoma_mansoni,100,0,100.0
