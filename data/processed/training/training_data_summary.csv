@@ -1,0 +1,11 @@
+pdb_id,pdb_path,total_residues,pocket_residues,pocket_fraction
+1CL8,data/processed/training/pdbs/1CL8.pdb,261,4,0.01532567049808429
+3MFP,data/processed/training/pdbs/3MFP.pdb,374,21,0.05614973262032086
+2H7S,data/processed/training/pdbs/2H7S.pdb,405,32,0.07901234567901234
+2JK6,data/processed/training/pdbs/2JK6.pdb,489,54,0.11042944785276074
+3RGF,data/processed/training/pdbs/3RGF.pdb,355,85,0.23943661971830985
+1E7W,data/processed/training/pdbs/1E7W.pdb,270,47,0.17407407407407408
+2BFA,data/processed/training/pdbs/2BFA.pdb,266,55,0.20676691729323307
+3GRS,data/processed/training/pdbs/3GRS.pdb,461,47,0.1019522776572668
+4CGO,data/processed/training/pdbs/4CGO.pdb,411,60,0.145985401459854
+2V6O,data/processed/training/pdbs/2V6O.pdb,586,83,0.1416382252559727
