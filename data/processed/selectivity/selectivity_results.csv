@@ -1,0 +1,301 @@
+protein_id,organism,max_human_identity,most_similar_human,is_selective,status,sequence_length
+sp|Q2VLK6|MCA3_TRYCC,trypanosoma_cruzi,7.61,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,358
+sp|Q2VLK8|MCA5_TRYCC,trypanosoma_cruzi,6.56,Beta-2 adrenergic receptor,True,SELECTIVE ✓,442
+sp|Q4CUJ8|PRL1_TRYCC,trypanosoma_cruzi,5.68,Hemoglobin subunit beta,True,SELECTIVE ✓,176
+sp|Q4D3W2|PYRD_TRYCC,trypanosoma_cruzi,5.09,Tumor protein p53,True,SELECTIVE ✓,314
+sp|Q4DA80|PRCMA_TRYCC,trypanosoma_cruzi,6.19,Retinal dehydrogenase 1,True,SELECTIVE ✓,423
+sp|Q9GT49|TRYS_TRYCC,trypanosoma_cruzi,6.96,Prothrombin (blood clotting),True,SELECTIVE ✓,647
+sp|Q4D9P2|DOT1B_TRYCC,trypanosoma_cruzi,4.78,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,275
+tr|Q4DA84|Q4DA84_TRYCC,trypanosoma_cruzi,6.75,Prothrombin (blood clotting),True,SELECTIVE ✓,591
+sp|Q4DBX5|ITPA1_TRYCC,trypanosoma_cruzi,4.59,Insulin,True,SELECTIVE ✓,196
+sp|Q4DCH3|JBP2_TRYCC,trypanosoma_cruzi,5.79,Epidermal growth factor receptor,True,SELECTIVE ✓,1086
+tr|Q4DF20|Q4DF20_TRYCC,trypanosoma_cruzi,5.59,Retinal dehydrogenase 1,True,SELECTIVE ✓,407
+tr|Q4DHB3|Q4DHB3_TRYCC,trypanosoma_cruzi,6.14,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,505
+tr|Q4DJW7|Q4DJW7_TRYCC,trypanosoma_cruzi,6.81,Beta-2 adrenergic receptor,True,SELECTIVE ✓,455
+tr|Q4DME1|Q4DME1_TRYCC,trypanosoma_cruzi,6.32,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,506
+sp|Q4DRX4|ITPA2_TRYCC,trypanosoma_cruzi,4.33,Tumor protein p53,True,SELECTIVE ✓,196
+tr|Q4DSR2|Q4DSR2_TRYCC,trypanosoma_cruzi,6.91,Prothrombin (blood clotting),True,SELECTIVE ✓,595
+tr|Q4DTA1|Q4DTA1_TRYCC,trypanosoma_cruzi,5.15,Hemoglobin subunit beta,True,SELECTIVE ✓,272
+sp|Q4DUK7|ELO1_TRYCC,trypanosoma_cruzi,6.05,Beta-2 adrenergic receptor,True,SELECTIVE ✓,289
+sp|Q4E409|VTC4_TRYCC,trypanosoma_cruzi,5.62,Prothrombin (blood clotting),True,SELECTIVE ✓,801
+tr|Q4E4W2|Q4E4W2_TRYCC,trypanosoma_cruzi,5.15,Hemoglobin subunit beta,True,SELECTIVE ✓,272
+sp|Q4E657|PFKA_TRYCC,trypanosoma_cruzi,6.8,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,485
+sp|Q7Z1V1|CP51_TRYCC,trypanosoma_cruzi,7.39,Retinal dehydrogenase 1,True,SELECTIVE ✓,481
+tr|Q4CM87|Q4CM87_TRYCC,trypanosoma_cruzi,5.29,Prothrombin (blood clotting),True,SELECTIVE ✓,681
+tr|Q4CMJ1|Q4CMJ1_TRYCC,trypanosoma_cruzi,6.97,Prothrombin (blood clotting),True,SELECTIVE ✓,631
+tr|Q4CMP1|Q4CMP1_TRYCC,trypanosoma_cruzi,6.32,Tumor protein p53,True,SELECTIVE ✓,443
+tr|Q4CMP5|Q4CMP5_TRYCC,trypanosoma_cruzi,6.11,Prothrombin (blood clotting),True,SELECTIVE ✓,565
+tr|Q4CMQ7|Q4CMQ7_TRYCC,trypanosoma_cruzi,5.08,Beta-2 adrenergic receptor,True,SELECTIVE ✓,388
+tr|Q4CMV5|Q4CMV5_TRYCC,trypanosoma_cruzi,6.09,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,372
+tr|Q4CMY9|Q4CMY9_TRYCC,trypanosoma_cruzi,5.26,Hemoglobin subunit beta,True,SELECTIVE ✓,304
+tr|Q4CN42|Q4CN42_TRYCC,trypanosoma_cruzi,6.26,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,543
+sp|Q4CNH2|ASNA_TRYCC,trypanosoma_cruzi,5.81,Beta-2 adrenergic receptor,True,SELECTIVE ✓,359
+tr|Q4CNI2|Q4CNI2_TRYCC,trypanosoma_cruzi,6.77,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,473
+sp|Q4CNL4|TRM51_TRYCC,trypanosoma_cruzi,5.88,Beta-2 adrenergic receptor,True,SELECTIVE ✓,510
+tr|Q4CNV0|Q4CNV0_TRYCC,trypanosoma_cruzi,6.64,Hemoglobin subunit beta,True,SELECTIVE ✓,241
+tr|Q4CNW0|Q4CNW0_TRYCC,trypanosoma_cruzi,5.88,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,544
+tr|Q4CPE3|Q4CPE3_TRYCC,trypanosoma_cruzi,4.54,Prothrombin (blood clotting),True,SELECTIVE ✓,793
+tr|Q4CPE5|Q4CPE5_TRYCC,trypanosoma_cruzi,5.02,Prothrombin (blood clotting),True,SELECTIVE ✓,697
+tr|Q4CPJ5|Q4CPJ5_TRYCC,trypanosoma_cruzi,5.63,Prothrombin (blood clotting),True,SELECTIVE ✓,565
+tr|Q4CPK2|Q4CPK2_TRYCC,trypanosoma_cruzi,5.08,Beta-2 adrenergic receptor,True,SELECTIVE ✓,311
+tr|Q4CPK7|Q4CPK7_TRYCC,trypanosoma_cruzi,6.34,Hemoglobin subunit beta,True,SELECTIVE ✓,205
+tr|Q4CPL5|Q4CPL5_TRYCC,trypanosoma_cruzi,5.63,Prothrombin (blood clotting),True,SELECTIVE ✓,592
+tr|Q4CPU1|Q4CPU1_TRYCC,trypanosoma_cruzi,5.65,Multidrug resistance protein 1,True,SELECTIVE ✓,1310
+tr|Q4CPV0|Q4CPV0_TRYCC,trypanosoma_cruzi,6.18,Tumor protein p53,True,SELECTIVE ✓,502
+tr|Q4CPW7|Q4CPW7_TRYCC,trypanosoma_cruzi,6.26,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,543
+tr|Q4CPY5|Q4CPY5_TRYCC,trypanosoma_cruzi,5.67,Retinal dehydrogenase 1,True,SELECTIVE ✓,705
+tr|Q4CPZ0|Q4CPZ0_TRYCC,trypanosoma_cruzi,10.22,Tumor protein p53,True,SELECTIVE ✓,401
+tr|Q4CQ77|Q4CQ77_TRYCC,trypanosoma_cruzi,5.63,Prothrombin (blood clotting),True,SELECTIVE ✓,566
+sp|Q4CQJ5|ATAT1_TRYCC,trypanosoma_cruzi,6.3,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,329
+tr|Q4CQL6|Q4CQL6_TRYCC,trypanosoma_cruzi,5.89,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,543
+tr|Q4CQW8|Q4CQW8_TRYCC,trypanosoma_cruzi,4.78,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,252
+tr|Q4CQX8|Q4CQX8_TRYCC,trypanosoma_cruzi,5.29,Beta-2 adrenergic receptor,True,SELECTIVE ✓,567
+tr|Q4CQZ5|Q4CQZ5_TRYCC,trypanosoma_cruzi,4.8,Prothrombin (blood clotting),True,SELECTIVE ✓,729
+tr|Q4CRA0|Q4CRA0_TRYCC,trypanosoma_cruzi,5.02,Prothrombin (blood clotting),True,SELECTIVE ✓,697
+tr|Q4CRI1|Q4CRI1_TRYCC,trypanosoma_cruzi,7.12,Tumor protein p53,True,SELECTIVE ✓,352
+tr|Q4CRI4|Q4CRI4_TRYCC,trypanosoma_cruzi,3.7,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,301
+tr|Q4CRK7|Q4CRK7_TRYCC,trypanosoma_cruzi,7.13,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,463
+tr|Q4CRM0|Q4CRM0_TRYCC,trypanosoma_cruzi,6.64,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1340
+tr|Q4CRU8|Q4CRU8_TRYCC,trypanosoma_cruzi,5.06,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,613
+tr|Q4CSD4|Q4CSD4_TRYCC,trypanosoma_cruzi,6.54,Beta-2 adrenergic receptor,True,SELECTIVE ✓,428
+tr|Q4CSF6|Q4CSF6_TRYCC,trypanosoma_cruzi,5.89,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,543
+tr|Q4CSQ2|Q4CSQ2_TRYCC,trypanosoma_cruzi,4.33,Tumor protein p53,True,SELECTIVE ✓,241
+tr|Q4CSU6|Q4CSU6_TRYCC,trypanosoma_cruzi,7.05,Retinal dehydrogenase 1,True,SELECTIVE ✓,567
+tr|Q4CSX2|Q4CSX2_TRYCC,trypanosoma_cruzi,7.26,Beta-2 adrenergic receptor,True,SELECTIVE ✓,408
+tr|Q4CT28|Q4CT28_TRYCC,trypanosoma_cruzi,5.09,Tumor protein p53,True,SELECTIVE ✓,322
+tr|Q4CT43|Q4CT43_TRYCC,trypanosoma_cruzi,6.59,Retinal dehydrogenase 1,True,SELECTIVE ✓,492
+tr|Q4CTQ3|Q4CTQ3_TRYCC,trypanosoma_cruzi,5.87,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,398
+sp|Q4CTY5|SLX12_TRYCC,trypanosoma_cruzi,6.98,Retinal dehydrogenase 1,True,SELECTIVE ✓,530
+tr|Q4CTZ0|Q4CTZ0_TRYCC,trypanosoma_cruzi,5.79,Prothrombin (blood clotting),True,SELECTIVE ✓,566
+tr|Q4CTZ1|Q4CTZ1_TRYCC,trypanosoma_cruzi,5.48,Retinal dehydrogenase 1,True,SELECTIVE ✓,566
+tr|Q4CUG6|Q4CUG6_TRYCC,trypanosoma_cruzi,5.14,Prothrombin (blood clotting),True,SELECTIVE ✓,512
+tr|Q4CUJ9|Q4CUJ9_TRYCC,trypanosoma_cruzi,6.49,Prothrombin (blood clotting),True,SELECTIVE ✓,678
+tr|Q4CUP1|Q4CUP1_TRYCC,trypanosoma_cruzi,6.05,Beta-2 adrenergic receptor,True,SELECTIVE ✓,344
+tr|Q4CV39|Q4CV39_TRYCC,trypanosoma_cruzi,6.36,Tumor protein p53,True,SELECTIVE ✓,346
+tr|Q4CV58|Q4CV58_TRYCC,trypanosoma_cruzi,5.87,Retinal dehydrogenase 1,True,SELECTIVE ✓,511
+tr|Q4CV82|Q4CV82_TRYCC,trypanosoma_cruzi,5.16,Multidrug resistance protein 1,True,SELECTIVE ✓,904
+tr|Q4CVK9|Q4CVK9_TRYCC,trypanosoma_cruzi,6.3,Beta-2 adrenergic receptor,True,SELECTIVE ✓,346
+tr|Q4CVQ7|Q4CVQ7_TRYCC,trypanosoma_cruzi,4.94,Beta-2 adrenergic receptor,True,SELECTIVE ✓,567
+tr|Q4CW87|Q4CW87_TRYCC,trypanosoma_cruzi,7.57,Multidrug resistance protein 1,True,SELECTIVE ✓,1281
+tr|Q4CWB4|Q4CWB4_TRYCC,trypanosoma_cruzi,6.3,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,404
+tr|Q4CWF3|Q4CWF3_TRYCC,trypanosoma_cruzi,6.91,Prothrombin (blood clotting),True,SELECTIVE ✓,516
+tr|Q4CWM2|Q4CWM2_TRYCC,trypanosoma_cruzi,5.47,Prothrombin (blood clotting),True,SELECTIVE ✓,607
+tr|Q4CWQ0|Q4CWQ0_TRYCC,trypanosoma_cruzi,6.78,Beta-2 adrenergic receptor,True,SELECTIVE ✓,370
+tr|Q4CWR3|Q4CWR3_TRYCC,trypanosoma_cruzi,5.08,Beta-2 adrenergic receptor,True,SELECTIVE ✓,311
+tr|Q4CWX0|Q4CWX0_TRYCC,trypanosoma_cruzi,4.53,Multidrug resistance protein 1,True,SELECTIVE ✓,769
+sp|Q4CWX1|PURA2_TRYCC,trypanosoma_cruzi,6.82,Retinal dehydrogenase 1,True,SELECTIVE ✓,616
+tr|Q4CXB8|Q4CXB8_TRYCC,trypanosoma_cruzi,6.36,Tumor protein p53,True,SELECTIVE ✓,330
+tr|Q4CXG1|Q4CXG1_TRYCC,trypanosoma_cruzi,5.49,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,947
+tr|Q4CXG8|Q4CXG8_TRYCC,trypanosoma_cruzi,5.68,Prothrombin (blood clotting),True,SELECTIVE ✓,810
+tr|Q4CXU1|Q4CXU1_TRYCC,trypanosoma_cruzi,5.54,Epidermal growth factor receptor,True,SELECTIVE ✓,1043
+tr|Q4CY14|Q4CY14_TRYCC,trypanosoma_cruzi,6.62,Tumor protein p53,True,SELECTIVE ✓,359
+tr|Q4CY24|Q4CY24_TRYCC,trypanosoma_cruzi,4.57,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,260
+sp|Q4CY36|MTNA1_TRYCC,trypanosoma_cruzi,6.87,Tumor protein p53,True,SELECTIVE ✓,372
+tr|Q4CY47|Q4CY47_TRYCC,trypanosoma_cruzi,4.38,Hemoglobin subunit beta,True,SELECTIVE ✓,251
+tr|Q4CYC0|Q4CYC0_TRYCC,trypanosoma_cruzi,6.59,Retinal dehydrogenase 1,True,SELECTIVE ✓,465
+tr|Q4CYE3|Q4CYE3_TRYCC,trypanosoma_cruzi,6.74,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,371
+tr|Q4CYM9|Q4CYM9_TRYCC,trypanosoma_cruzi,5.47,Prothrombin (blood clotting),True,SELECTIVE ✓,566
+tr|Q4CYT2|Q4CYT2_TRYCC,trypanosoma_cruzi,6.36,Tumor protein p53,True,SELECTIVE ✓,359
+tr|Q4CZ61|Q4CZ61_TRYCC,trypanosoma_cruzi,5.49,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,856
+tr|Q4CZE3|Q4CZE3_TRYCC,trypanosoma_cruzi,8.18,Retinal dehydrogenase 1,True,SELECTIVE ✓,499
+tr|Q4D135|Q4D135_TRYCC,trypanosoma_cruzi,5.61,Retinal dehydrogenase 1,True,SELECTIVE ✓,570
+sp|A0A0R6Y3I5|G5K_LEIDO,leishmania_donovani,6.08,Hemoglobin subunit beta,True,SELECTIVE ✓,263
+sp|A0A3S7WQS5|SPCS_LEIDO,leishmania_donovani,6.75,Prothrombin (blood clotting),True,SELECTIVE ✓,595
+sp|Q8T7E0|ENPL_LEIDO,leishmania_donovani,5.13,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,771
+sp|Q9NBV4|NT2_LEIDO,leishmania_donovani,6.41,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,499
+tr|A0A3Q8ICZ5|A0A3Q8ICZ5_LEIDO,leishmania_donovani,5.34,Beta-2 adrenergic receptor,True,SELECTIVE ✓,468
+tr|A0A3Q8IF09|A0A3Q8IF09_LEIDO,leishmania_donovani,5.94,Hemoglobin subunit beta,True,SELECTIVE ✓,219
+tr|A0A3Q8IGM2|A0A3Q8IGM2_LEIDO,leishmania_donovani,6.36,Tumor protein p53,True,SELECTIVE ✓,321
+tr|A0A3S5H6P5|A0A3S5H6P5_LEIDO,leishmania_donovani,5.07,Prothrombin (blood clotting),True,SELECTIVE ✓,710
+tr|A0A3S7WT52|A0A3S7WT52_LEIDO,leishmania_donovani,5.79,Prothrombin (blood clotting),True,SELECTIVE ✓,560
+tr|A0A3S7X168|A0A3S7X168_LEIDO,leishmania_donovani,6.44,Retinal dehydrogenase 1,True,SELECTIVE ✓,528
+tr|A0A3S7XBM4|A0A3S7XBM4_LEIDO,leishmania_donovani,7.39,Hemoglobin subunit beta,True,SELECTIVE ✓,230
+tr|A0A504X2W9|A0A504X2W9_LEIDO,leishmania_donovani,5.94,Hemoglobin subunit beta,True,SELECTIVE ✓,219
+tr|A0A504X6L5|A0A504X6L5_LEIDO,leishmania_donovani,5.33,Beta-2 adrenergic receptor,True,SELECTIVE ✓,325
+tr|A0A504X793|A0A504X793_LEIDO,leishmania_donovani,7.39,Hemoglobin subunit beta,True,SELECTIVE ✓,230
+tr|A0A504XCF0|A0A504XCF0_LEIDO,leishmania_donovani,5.7,Epidermal growth factor receptor,True,SELECTIVE ✓,1023
+tr|A0A504XCF9|A0A504XCF9_LEIDO,leishmania_donovani,5.16,Multidrug resistance protein 1,True,SELECTIVE ✓,1071
+tr|A0A504XMR5|A0A504XMR5_LEIDO,leishmania_donovani,5.21,Prothrombin (blood clotting),True,SELECTIVE ✓,710
+tr|A0A504XNJ5|A0A504XNJ5_LEIDO,leishmania_donovani,5.45,Epidermal growth factor receptor,True,SELECTIVE ✓,1022
+tr|A0A504XT06|A0A504XT06_LEIDO,leishmania_donovani,6.19,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1057
+tr|A0A504XT18|A0A504XT18_LEIDO,leishmania_donovani,6.02,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1055
+tr|A0A504XU02|A0A504XU02_LEIDO,leishmania_donovani,5.34,Beta-2 adrenergic receptor,True,SELECTIVE ✓,468
+tr|A0A504XUZ3|A0A504XUZ3_LEIDO,leishmania_donovani,5.84,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1070
+tr|A0A504XVI1|A0A504XVI1_LEIDO,leishmania_donovani,5.58,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1044
+tr|A0A504XXT4|A0A504XXT4_LEIDO,leishmania_donovani,5.71,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,560
+tr|A0A504Y0V2|A0A504Y0V2_LEIDO,leishmania_donovani,5.94,Hemoglobin subunit beta,True,SELECTIVE ✓,219
+tr|A0A504Y9J9|A0A504Y9J9_LEIDO,leishmania_donovani,5.75,Multidrug resistance protein 1,True,SELECTIVE ✓,1339
+sp|B5APK2|DHYS_LEIDO,leishmania_donovani,5.82,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,601
+sp|D9IFD5|DOHH_LEIDO,leishmania_donovani,6.78,Beta-2 adrenergic receptor,True,SELECTIVE ✓,326
+tr|E9BBI3|E9BBI3_LEIDO,leishmania_donovani,5.07,Prothrombin (blood clotting),True,SELECTIVE ✓,710
+sp|E9BDA8|GMPR_LEIDO,leishmania_donovani,5.69,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,492
+sp|I7HD01|FRDA_LEIDO,leishmania_donovani,5.82,Insulin,True,SELECTIVE ✓,189
+sp|O00874|DPOLA_LEIDO,leishmania_donovani,6.57,Multidrug resistance protein 1,True,SELECTIVE ✓,1339
+sp|P21620|IMDH_LEIDO,leishmania_donovani,6.81,Retinal dehydrogenase 1,True,SELECTIVE ✓,514
+sp|P23223|GP63_LEIDO,leishmania_donovani,8.52,Prothrombin (blood clotting),True,SELECTIVE ✓,590
+sp|P27116|DCOR_LEIDO,leishmania_donovani,6.22,Prothrombin (blood clotting),True,SELECTIVE ✓,707
+sp|P39050|TYTR_LEIDO,leishmania_donovani,6.79,Retinal dehydrogenase 1,True,SELECTIVE ✓,491
+sp|Q25263|CYAB_LEIDO,leishmania_donovani,5.33,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1331
+sp|Q27675|CYAA_LEIDO,leishmania_donovani,6.45,Multidrug resistance protein 1,True,SELECTIVE ✓,1380
+sp|Q36736|KM11_LEIDO,leishmania_donovani,5.45,Insulin,True,SELECTIVE ✓,92
+sp|Q9BIC6|PFKA_LEIDO,leishmania_donovani,5.76,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,486
+tr|A0A0G3EHC9|A0A0G3EHC9_LEIDO,leishmania_donovani,6.99,Retinal dehydrogenase 1,True,SELECTIVE ✓,491
+tr|A0A1W5T6S5|A0A1W5T6S5_LEIDO,leishmania_donovani,6.11,Prothrombin (blood clotting),True,SELECTIVE ✓,429
+tr|A0A1W5T6S7|A0A1W5T6S7_LEIDO,leishmania_donovani,5.65,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,426
+tr|A0A1W5T6S8|A0A1W5T6S8_LEIDO,leishmania_donovani,5.65,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,425
+tr|A0A1W5T6S9|A0A1W5T6S9_LEIDO,leishmania_donovani,6.78,Beta-2 adrenergic receptor,True,SELECTIVE ✓,428
+tr|A0A1W5T6T0|A0A1W5T6T0_LEIDO,leishmania_donovani,7.98,Retinal dehydrogenase 1,True,SELECTIVE ✓,433
+tr|A0A1W5T6T2|A0A1W5T6T2_LEIDO,leishmania_donovani,5.99,Retinal dehydrogenase 1,True,SELECTIVE ✓,429
+tr|A0A1W5T6T3|A0A1W5T6T3_LEIDO,leishmania_donovani,6.11,Prothrombin (blood clotting),True,SELECTIVE ✓,430
+tr|A0A1W5T6T5|A0A1W5T6T5_LEIDO,leishmania_donovani,7.78,Retinal dehydrogenase 1,True,SELECTIVE ✓,432
+tr|A0A1W5T6U6|A0A1W5T6U6_LEIDO,leishmania_donovani,6.19,Retinal dehydrogenase 1,True,SELECTIVE ✓,428
+tr|A0A3Q8I8S6|A0A3Q8I8S6_LEIDO,leishmania_donovani,7.64,Prothrombin (blood clotting),True,SELECTIVE ✓,641
+tr|A0A3Q8I9I1|A0A3Q8I9I1_LEIDO,leishmania_donovani,5.31,Retinal dehydrogenase 1,True,SELECTIVE ✓,565
+tr|A0A3Q8IAF1|A0A3Q8IAF1_LEIDO,leishmania_donovani,7.78,Retinal dehydrogenase 1,True,SELECTIVE ✓,479
+tr|A0A3Q8IAZ3|A0A3Q8IAZ3_LEIDO,leishmania_donovani,5.93,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1065
+tr|A0A3Q8IB56|A0A3Q8IB56_LEIDO,leishmania_donovani,4.57,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,317
+tr|A0A3Q8IBX3|A0A3Q8IBX3_LEIDO,leishmania_donovani,7.78,Retinal dehydrogenase 1,True,SELECTIVE ✓,471
+tr|A0A3Q8IC54|A0A3Q8IC54_LEIDO,leishmania_donovani,5.37,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1675
+tr|A0A3Q8ICG0|A0A3Q8ICG0_LEIDO,leishmania_donovani,5.04,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,759
+tr|A0A3Q8ICG8|A0A3Q8ICG8_LEIDO,leishmania_donovani,5.75,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,962
+tr|A0A3Q8ID02|A0A3Q8ID02_LEIDO,leishmania_donovani,6.62,Tumor protein p53,True,SELECTIVE ✓,376
+tr|A0A3Q8ID36|A0A3Q8ID36_LEIDO,leishmania_donovani,5.95,Prothrombin (blood clotting),True,SELECTIVE ✓,607
+tr|A0A3Q8ID77|A0A3Q8ID77_LEIDO,leishmania_donovani,5.36,Prothrombin (blood clotting),True,SELECTIVE ✓,709
+tr|A0A3Q8IDE2|A0A3Q8IDE2_LEIDO,leishmania_donovani,7.99,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,463
+tr|A0A3Q8IDM9|A0A3Q8IDM9_LEIDO,leishmania_donovani,6.62,Tumor protein p53,True,SELECTIVE ✓,344
+tr|A0A3Q8IEH8|A0A3Q8IEH8_LEIDO,leishmania_donovani,5.59,Retinal dehydrogenase 1,True,SELECTIVE ✓,382
+tr|A0A3Q8IEU7|A0A3Q8IEU7_LEIDO,leishmania_donovani,5.87,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,405
+tr|A0A3Q8IEY2|A0A3Q8IEY2_LEIDO,leishmania_donovani,6.95,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1151
+tr|A0A3Q8IF07|A0A3Q8IF07_LEIDO,leishmania_donovani,6.75,Beta-2 adrenergic receptor,True,SELECTIVE ✓,474
+tr|A0A3Q8IFF5|A0A3Q8IFF5_LEIDO,leishmania_donovani,5.85,Tumor protein p53,True,SELECTIVE ✓,299
+tr|A0A3Q8IFX2|A0A3Q8IFX2_LEIDO,leishmania_donovani,7.89,Tumor protein p53,True,SELECTIVE ✓,371
+tr|A0A3Q8IGS8|A0A3Q8IGS8_LEIDO,leishmania_donovani,4.57,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,241
+tr|A0A3Q8IGV1|A0A3Q8IGV1_LEIDO,leishmania_donovani,4.2,Hemoglobin subunit beta,True,SELECTIVE ✓,262
+tr|A0A3Q8IGV8|A0A3Q8IGV8_LEIDO,leishmania_donovani,4.87,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,884
+tr|A0A3Q8IHJ2|A0A3Q8IHJ2_LEIDO,leishmania_donovani,6.09,Multidrug resistance protein 1,True,SELECTIVE ✓,997
+tr|A0A3Q8IHS4|A0A3Q8IHS4_LEIDO,leishmania_donovani,5.2,Retinal dehydrogenase 1,True,SELECTIVE ✓,635
+tr|A0A3Q8II29|A0A3Q8II29_LEIDO,leishmania_donovani,5.73,Beta-2 adrenergic receptor,True,SELECTIVE ✓,489
+tr|A0A3Q8II66|A0A3Q8II66_LEIDO,leishmania_donovani,5.03,Multidrug resistance protein 1,True,SELECTIVE ✓,1590
+tr|A0A3Q8II77|A0A3Q8II77_LEIDO,leishmania_donovani,5.48,Prothrombin (blood clotting),True,SELECTIVE ✓,767
+tr|A0A3Q8IIN4|A0A3Q8IIN4_LEIDO,leishmania_donovani,7.08,Prothrombin (blood clotting),True,SELECTIVE ✓,636
+tr|A0A3Q8IJ37|A0A3Q8IJ37_LEIDO,leishmania_donovani,4.58,Tumor protein p53,True,SELECTIVE ✓,331
+tr|A0A3Q8IJ65|A0A3Q8IJ65_LEIDO,leishmania_donovani,5.7,Multidrug resistance protein 1,True,SELECTIVE ✓,1222
+tr|A0A3Q8IJ69|A0A3Q8IJ69_LEIDO,leishmania_donovani,7.08,Retinal dehydrogenase 1,True,SELECTIVE ✓,537
+tr|A0A3Q8IJH0|A0A3Q8IJH0_LEIDO,leishmania_donovani,7.08,Tumor protein p53,True,SELECTIVE ✓,466
+tr|A0A3Q8IKP2|A0A3Q8IKP2_LEIDO,leishmania_donovani,5.93,Multidrug resistance protein 1,True,SELECTIVE ✓,1451
+tr|A0A3Q8IKY2|A0A3Q8IKY2_LEIDO,leishmania_donovani,6.29,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,509
+tr|A0A3Q8IMM9|A0A3Q8IMM9_LEIDO,leishmania_donovani,5.18,Hemoglobin subunit beta,True,SELECTIVE ✓,251
+tr|A0A3Q8IRN9|A0A3Q8IRN9_LEIDO,leishmania_donovani,6.12,Retinal dehydrogenase 1,True,SELECTIVE ✓,621
+tr|A0A3S5H5F1|A0A3S5H5F1_LEIDO,leishmania_donovani,5.85,Tumor protein p53,True,SELECTIVE ✓,351
+tr|A0A3S5H5K5|A0A3S5H5K5_LEIDO,leishmania_donovani,4.84,Beta-2 adrenergic receptor,True,SELECTIVE ✓,306
+tr|A0A3S5H5T0|A0A3S5H5T0_LEIDO,leishmania_donovani,6.15,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,520
+tr|A0A3S5H5Y3|A0A3S5H5Y3_LEIDO,leishmania_donovani,7.63,Tumor protein p53,True,SELECTIVE ✓,364
+tr|A0A3S5H6X3|A0A3S5H6X3_LEIDO,leishmania_donovani,4.4,Multidrug resistance protein 1,True,SELECTIVE ✓,1842
+tr|A0A3S5H6Z2|A0A3S5H6Z2_LEIDO,leishmania_donovani,6.64,Multidrug resistance protein 1,True,SELECTIVE ✓,1340
+tr|A0A3S5H7D7|A0A3S5H7D7_LEIDO,leishmania_donovani,6.86,Prothrombin (blood clotting),True,SELECTIVE ✓,671
+tr|A0A3S5H7J9|A0A3S5H7J9_LEIDO,leishmania_donovani,4.43,Prothrombin (blood clotting),True,SELECTIVE ✓,880
+tr|A0A3S5H7M6|A0A3S5H7M6_LEIDO,leishmania_donovani,6.11,Tumor protein p53,True,SELECTIVE ✓,345
+tr|A0A3S7WP12|A0A3S7WP12_LEIDO,leishmania_donovani,6.92,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,491
+tr|A0A3S7WQG8|A0A3S7WQG8_LEIDO,leishmania_donovani,5.09,Tumor protein p53,True,SELECTIVE ✓,258
+tr|A0A3S7WQI8|A0A3S7WQI8_LEIDO,leishmania_donovani,5.62,Epidermal growth factor receptor,True,SELECTIVE ✓,895
+tr|A0A3S7WRJ2|A0A3S7WRJ2_LEIDO,leishmania_donovani,5.7,Multidrug resistance protein 1,True,SELECTIVE ✓,1222
+sp|A0A3Q0KDV9|SEP10_SCHMA,schistosoma_mansoni,7.17,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,412
+sp|A0A3Q0KGQ7|KAD2_SCHMA,schistosoma_mansoni,5.02,Hemoglobin subunit beta,True,SELECTIVE ✓,239
+sp|A0A3Q0KJ78|NDK_SCHMA,schistosoma_mansoni,10.88,Hemoglobin subunit beta,True,SELECTIVE ✓,143
+sp|A0A3Q0KQY7|FUMC_SCHMA,schistosoma_mansoni,7.39,Retinal dehydrogenase 1,True,SELECTIVE ✓,488
+sp|A0A3Q0KR05|NPRS_SCHMA,schistosoma_mansoni,5.79,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1227
+tr|A0A5K4F3Y0|A0A5K4F3Y0_SCHMA,schistosoma_mansoni,4.96,Epidermal growth factor receptor,True,SELECTIVE ✓,875
+sp|C4QH88|ANX22_SCHMA,schistosoma_mansoni,5.31,Prothrombin (blood clotting),True,SELECTIVE ✓,365
+sp|G4V9S0|KAD1_SCHMA,schistosoma_mansoni,7.11,Hemoglobin subunit beta,True,SELECTIVE ✓,197
+sp|G4VJD5|PGM_SCHMA,schistosoma_mansoni,6.0,Hemoglobin subunit beta,True,SELECTIVE ✓,250
+sp|G4VQX9|PUR8_SCHMA,schistosoma_mansoni,7.08,Beta-2 adrenergic receptor,True,SELECTIVE ✓,480
+sp|P09792|GST28_SCHMA,schistosoma_mansoni,3.79,Hemoglobin subunit beta,True,SELECTIVE ✓,211
+sp|Q26609|HXK_SCHMA,schistosoma_mansoni,7.58,Retinal dehydrogenase 1,True,SELECTIVE ✓,451
+sp|Q27778|PFKA_SCHMA,schistosoma_mansoni,4.69,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,781
+tr|A0A3Q0KF43|A0A3Q0KF43_SCHMA,schistosoma_mansoni,5.82,Prothrombin (blood clotting),True,SELECTIVE ✓,790
+tr|A0A3Q0KGU1|A0A3Q0KGU1_SCHMA,schistosoma_mansoni,4.23,Hemoglobin subunit beta,True,SELECTIVE ✓,189
+sp|A0A3Q0KHE7|CARM1_SCHMA,schistosoma_mansoni,4.96,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,737
+tr|A0A3Q0KKK1|A0A3Q0KKK1_SCHMA,schistosoma_mansoni,6.57,Retinal dehydrogenase 1,True,SELECTIVE ✓,502
+tr|A0A3Q0KLJ1|A0A3Q0KLJ1_SCHMA,schistosoma_mansoni,6.12,Epidermal growth factor receptor,True,SELECTIVE ✓,976
+tr|A0A5K4EKK0|A0A5K4EKK0_SCHMA,schistosoma_mansoni,5.21,Insulin,True,SELECTIVE ✓,192
+tr|A0A5K4ELH4|A0A5K4ELH4_SCHMA,schistosoma_mansoni,6.36,Tumor protein p53,True,SELECTIVE ✓,289
+tr|A0A5K4EST7|A0A5K4EST7_SCHMA,schistosoma_mansoni,5.0,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,262
+tr|G4V9W8|G4V9W8_SCHMA,schistosoma_mansoni,5.21,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,480
+tr|G4VB10|G4VB10_SCHMA,schistosoma_mansoni,7.25,Retinal dehydrogenase 1,True,SELECTIVE ✓,524
+tr|G4VFF8|G4VFF8_SCHMA,schistosoma_mansoni,6.01,Tumor protein p53,True,SELECTIVE ✓,516
+sp|G4VGI0|UPPA_SCHMA,schistosoma_mansoni,6.3,Beta-2 adrenergic receptor,True,SELECTIVE ✓,296
+tr|G4VHQ2|G4VHQ2_SCHMA,schistosoma_mansoni,5.81,Beta-2 adrenergic receptor,True,SELECTIVE ✓,253
+sp|G4VJD6|DYR_SCHMA,schistosoma_mansoni,5.08,Beta-2 adrenergic receptor,True,SELECTIVE ✓,186
+tr|G4VKA6|G4VKA6_SCHMA,schistosoma_mansoni,5.67,Prothrombin (blood clotting),True,SELECTIVE ✓,793
+tr|G4VQL7|G4VQL7_SCHMA,schistosoma_mansoni,5.14,Prothrombin (blood clotting),True,SELECTIVE ✓,597
+sp|P09383|HPRT_SCHMA,schistosoma_mansoni,6.05,Beta-2 adrenergic receptor,True,SELECTIVE ✓,284
+sp|P15964|GST26_SCHMA,schistosoma_mansoni,3.67,Hemoglobin subunit beta,True,SELECTIVE ✓,218
+sp|P16026|SODE_SCHMA,schistosoma_mansoni,5.43,Insulin,True,SELECTIVE ✓,184
+sp|P16237|HMDH_SCHMA,schistosoma_mansoni,5.4,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,948
+sp|P16641|KTRC_SCHMA,schistosoma_mansoni,5.31,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,746
+sp|P20287|G3P_SCHMA,schistosoma_mansoni,5.65,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,338
+sp|P27730|CAN_SCHMA,schistosoma_mansoni,4.62,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,758
+sp|P41759|PGK_SCHMA,schistosoma_mansoni,6.79,Retinal dehydrogenase 1,True,SELECTIVE ✓,416
+sp|P48501|TPIS_SCHMA,schistosoma_mansoni,4.58,Tumor protein p53,True,SELECTIVE ✓,253
+sp|Q01137|SODC_SCHMA,schistosoma_mansoni,7.19,Hemoglobin subunit beta,True,SELECTIVE ✓,153
+sp|Q06814|CALR_SCHMA,schistosoma_mansoni,6.87,Tumor protein p53,True,SELECTIVE ✓,393
+sp|Q26551|PPIB_SCHMA,schistosoma_mansoni,5.16,Hemoglobin subunit beta,True,SELECTIVE ✓,213
+sp|Q86MW9|SINA_SCHMA,schistosoma_mansoni,6.62,Tumor protein p53,True,SELECTIVE ✓,371
+tr|A0A0F7DCW8|A0A0F7DCW8_SCHMA,schistosoma_mansoni,4.55,Insulin,True,SELECTIVE ✓,81
+tr|A0A0F7IJ16|A0A0F7IJ16_SCHMA,schistosoma_mansoni,4.55,Insulin,True,SELECTIVE ✓,81
+tr|A0A0F7IJS9|A0A0F7IJS9_SCHMA,schistosoma_mansoni,4.55,Insulin,True,SELECTIVE ✓,81
+tr|A0A0F7IML8|A0A0F7IML8_SCHMA,schistosoma_mansoni,4.55,Insulin,True,SELECTIVE ✓,81
+tr|A0A0K1MY57|A0A0K1MY57_SCHMA,schistosoma_mansoni,5.71,Insulin,True,SELECTIVE ✓,140
+tr|A0A0K1MY71|A0A0K1MY71_SCHMA,schistosoma_mansoni,5.71,Insulin,True,SELECTIVE ✓,140
+tr|A0A0K1MY73|A0A0K1MY73_SCHMA,schistosoma_mansoni,5.71,Insulin,True,SELECTIVE ✓,140
+tr|A0A0K1MYW9|A0A0K1MYW9_SCHMA,schistosoma_mansoni,5.71,Insulin,True,SELECTIVE ✓,140
+tr|A0A0U3AGT1|A0A0U3AGT1_SCHMA,schistosoma_mansoni,4.6,Beta-2 adrenergic receptor,True,SELECTIVE ✓,287
+tr|A0A127ZND7|A0A127ZND7_SCHMA,schistosoma_mansoni,6.36,Insulin,True,SELECTIVE ✓,103
+tr|A0A127ZNE5|A0A127ZNE5_SCHMA,schistosoma_mansoni,6.36,Insulin,True,SELECTIVE ✓,103
+tr|A0A127ZNE6|A0A127ZNE6_SCHMA,schistosoma_mansoni,7.27,Insulin,True,SELECTIVE ✓,103
+tr|A0A127ZNF2|A0A127ZNF2_SCHMA,schistosoma_mansoni,5.45,Insulin,True,SELECTIVE ✓,103
+tr|A0A127ZNH3|A0A127ZNH3_SCHMA,schistosoma_mansoni,6.36,Insulin,True,SELECTIVE ✓,103
+tr|A0A127ZNJ0|A0A127ZNJ0_SCHMA,schistosoma_mansoni,6.36,Insulin,True,SELECTIVE ✓,103
+tr|A0A2I4U2C3|A0A2I4U2C3_SCHMA,schistosoma_mansoni,6.36,Tumor protein p53,True,SELECTIVE ✓,293
+tr|A0A2I4U2C7|A0A2I4U2C7_SCHMA,schistosoma_mansoni,3.87,Beta-2 adrenergic receptor,True,SELECTIVE ✓,255
+tr|A0A2I4U2S6|A0A2I4U2S6_SCHMA,schistosoma_mansoni,6.36,Tumor protein p53,True,SELECTIVE ✓,293
+tr|A0A2I4U336|A0A2I4U336_SCHMA,schistosoma_mansoni,6.36,Tumor protein p53,True,SELECTIVE ✓,293
+tr|A0A2I4U4Z8|A0A2I4U4Z8_SCHMA,schistosoma_mansoni,6.36,Tumor protein p53,True,SELECTIVE ✓,291
+tr|A0A2I4U802|A0A2I4U802_SCHMA,schistosoma_mansoni,6.36,Tumor protein p53,True,SELECTIVE ✓,293
+tr|A0A2I4U8B0|A0A2I4U8B0_SCHMA,schistosoma_mansoni,6.36,Tumor protein p53,True,SELECTIVE ✓,293
+tr|A0A386TX74|A0A386TX74_SCHMA,schistosoma_mansoni,6.05,Beta-2 adrenergic receptor,True,SELECTIVE ✓,342
+tr|A0A386TX82|A0A386TX82_SCHMA,schistosoma_mansoni,6.05,Beta-2 adrenergic receptor,True,SELECTIVE ✓,343
+tr|A0A3Q0KBF4|A0A3Q0KBF4_SCHMA,schistosoma_mansoni,6.22,Tumor protein p53,True,SELECTIVE ✓,482
+tr|A0A3Q0KBF8|A0A3Q0KBF8_SCHMA,schistosoma_mansoni,5.21,Epidermal growth factor receptor,True,SELECTIVE ✓,1040
+tr|A0A3Q0KBG3|A0A3Q0KBG3_SCHMA,schistosoma_mansoni,6.9,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1066
+tr|A0A3Q0KBT9|A0A3Q0KBT9_SCHMA,schistosoma_mansoni,6.11,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1011
+tr|A0A3Q0KBU0|A0A3Q0KBU0_SCHMA,schistosoma_mansoni,6.2,Epidermal growth factor receptor,True,SELECTIVE ✓,1199
+tr|A0A3Q0KC34|A0A3Q0KC34_SCHMA,schistosoma_mansoni,6.78,Beta-2 adrenergic receptor,True,SELECTIVE ✓,352
+tr|A0A3Q0KC36|A0A3Q0KC36_SCHMA,schistosoma_mansoni,4.83,Tumor protein p53,True,SELECTIVE ✓,341
+tr|A0A3Q0KC81|A0A3Q0KC81_SCHMA,schistosoma_mansoni,5.99,Retinal dehydrogenase 1,True,SELECTIVE ✓,410
+tr|A0A3Q0KCA9|A0A3Q0KCA9_SCHMA,schistosoma_mansoni,7.62,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,512
+tr|A0A3Q0KCB8|A0A3Q0KCB8_SCHMA,schistosoma_mansoni,7.23,Prothrombin (blood clotting),True,SELECTIVE ✓,522
+tr|A0A3Q0KCC2|A0A3Q0KCC2_SCHMA,schistosoma_mansoni,5.75,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1100
+tr|A0A3Q0KCJ4|A0A3Q0KCJ4_SCHMA,schistosoma_mansoni,6.11,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1024
+tr|A0A3Q0KCR4|A0A3Q0KCR4_SCHMA,schistosoma_mansoni,4.84,Beta-2 adrenergic receptor,True,SELECTIVE ✓,355
+tr|A0A3Q0KD12|A0A3Q0KD12_SCHMA,schistosoma_mansoni,4.25,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,840
+tr|A0A3Q0KD20|A0A3Q0KD20_SCHMA,schistosoma_mansoni,3.91,Prothrombin (blood clotting),True,SELECTIVE ✓,843
+tr|A0A3Q0KD94|A0A3Q0KD94_SCHMA,schistosoma_mansoni,7.66,Beta-2 adrenergic receptor,True,SELECTIVE ✓,470
+tr|A0A3Q0KDC9|A0A3Q0KDC9_SCHMA,schistosoma_mansoni,6.44,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,497
+tr|A0A3Q0KDF5|A0A3Q0KDF5_SCHMA,schistosoma_mansoni,4.33,Tumor protein p53,True,SELECTIVE ✓,219
+tr|A0A3Q0KDR5|A0A3Q0KDR5_SCHMA,schistosoma_mansoni,4.78,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,917
+tr|A0A3Q0KDX8|A0A3Q0KDX8_SCHMA,schistosoma_mansoni,6.73,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1188
+tr|A0A3Q0KE49|A0A3Q0KE49_SCHMA,schistosoma_mansoni,5.3,Prothrombin (blood clotting),True,SELECTIVE ✓,642
+tr|A0A3Q0KE59|A0A3Q0KE59_SCHMA,schistosoma_mansoni,4.85,Retinal dehydrogenase 1,True,SELECTIVE ✓,577
+tr|A0A3Q0KE80|A0A3Q0KE80_SCHMA,schistosoma_mansoni,4.84,Prothrombin (blood clotting),True,SELECTIVE ✓,702
+tr|A0A3Q0KEF0|A0A3Q0KEF0_SCHMA,schistosoma_mansoni,6.32,Beta-2 adrenergic receptor,True,SELECTIVE ✓,459
+tr|A0A3Q0KEL0|A0A3Q0KEL0_SCHMA,schistosoma_mansoni,5.12,Prothrombin (blood clotting),True,SELECTIVE ✓,820
+tr|A0A3Q0KER0|A0A3Q0KER0_SCHMA,schistosoma_mansoni,5.79,Prothrombin (blood clotting),True,SELECTIVE ✓,610
+tr|A0A3Q0KES4|A0A3Q0KES4_SCHMA,schistosoma_mansoni,7.61,Tumor protein p53,True,SELECTIVE ✓,394
+tr|A0A3Q0KEV1|A0A3Q0KEV1_SCHMA,schistosoma_mansoni,5.31,Multidrug resistance protein 1,True,SELECTIVE ✓,1278
+tr|A0A3Q0KEX5|A0A3Q0KEX5_SCHMA,schistosoma_mansoni,6.56,Multidrug resistance protein 1,True,SELECTIVE ✓,1267
+tr|A0A3Q0KF51|A0A3Q0KF51_SCHMA,schistosoma_mansoni,4.36,Beta-2 adrenergic receptor,True,SELECTIVE ✓,242
+tr|A0A3Q0KF78|A0A3Q0KF78_SCHMA,schistosoma_mansoni,5.31,Tyrosine-protein kinase ABL1,True,SELECTIVE ✓,1001
+tr|A0A3Q0KFC5|A0A3Q0KFC5_SCHMA,schistosoma_mansoni,4.0,Multidrug resistance protein 1,True,SELECTIVE ✓,1602
+tr|A0A3Q0KFL1|A0A3Q0KFL1_SCHMA,schistosoma_mansoni,5.24,Prothrombin (blood clotting),True,SELECTIVE ✓,630
+tr|A0A3Q0KFN3|A0A3Q0KFN3_SCHMA,schistosoma_mansoni,7.8,Muscarinic acetylcholine receptor,True,SELECTIVE ✓,487
