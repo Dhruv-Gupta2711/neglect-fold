@@ -1,0 +1,21 @@
+rank,protein_id,organism,final_score,pocket_shap,affinity_shap,selectivity_shap,main_strength
+1,G4VJD6,schistosoma_mansoni,0.8433,0.0637,0.155,0.0016,drug binding
+2,Q4CQJ5,trypanosoma_cruzi,0.8165,0.0788,0.0144,-0.0009,pocket quality
+3,P15964,schistosoma_mansoni,0.8108,0.0548,0.066,0.0044,drug binding
+4,Q4CMY9,trypanosoma_cruzi,0.7876,0.0095,0.1304,0.0012,drug binding
+5,G4VB10,schistosoma_mansoni,0.7778,0.0492,-0.0536,-0.0028,pocket quality
+6,Q06814,schistosoma_mansoni,0.7721,0.0757,-0.0254,-0.002,pocket quality
+7,A0A5K4ELH4,schistosoma_mansoni,0.7645,0.0027,-0.145,-0.001,pocket quality
+8,Q4CPZ0,trypanosoma_cruzi,0.7525,0.0358,0.0425,-0.0087,drug binding
+9,A0A504XVI1,leishmania_donovani,0.7496,-0.0266,0.0308,0.0006,drug binding
+10,G4V9W8,schistosoma_mansoni,0.7308,-0.0148,-0.0618,0.0013,human selectivity
+11,Q26551,schistosoma_mansoni,0.727,0.0054,0.0191,0.0014,drug binding
+12,P41759,schistosoma_mansoni,0.725,-0.0412,0.0296,-0.0018,drug binding
+13,A0A504XCF9,leishmania_donovani,0.7224,-0.0071,0.0683,0.0014,drug binding
+14,O00874,leishmania_donovani,0.7196,-0.021,-0.0196,-0.0014,human selectivity
+15,C4QH88,schistosoma_mansoni,0.7067,-0.0412,0.0695,0.0011,drug binding
+16,Q4CPE5,trypanosoma_cruzi,0.7065,-0.053,-0.0395,0.0017,human selectivity
+17,A0A504XNJ5,leishmania_donovani,0.6891,-0.0408,-0.1133,0.0008,human selectivity
+18,P16641,schistosoma_mansoni,0.6762,-0.0339,-0.0805,0.0011,human selectivity
+19,A0A1W5T6S7,leishmania_donovani,0.6759,-0.0664,-0.0172,0.0004,human selectivity
+20,Q8T7E0,leishmania_donovani,0.6743,-0.0295,-0.07,0.0015,human selectivity

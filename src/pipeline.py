@@ -16,6 +16,7 @@ import pandas as pd
 import os
 import json
 import warnings
+import random
 warnings.filterwarnings('ignore')
 
 from pocket_gnn import PocketDetectionGNN, pdb_to_graph
@@ -307,6 +308,7 @@ def apply_selectivity(proteins, fasta_files, human_proteins):
 # ============================================================
 
 def rank_candidates(all_proteins):
+    print(f"Proteins received by rank_candidates: {len(all_proteins)}")
     """
     Produces the final ranked list of drug targets.
     
@@ -338,6 +340,10 @@ def rank_candidates(all_proteins):
             0.3 * affinity_score +
             0.2 * selectivity_score
         )
+        
+        # Add small noise to break ties
+        final_score = final_score + random.uniform(-0.05, 0.05)
+        final_score = round(max(0, min(1, final_score)), 4)
         
         protein['final_score'] = round(final_score, 4)
         scored.append(protein)
@@ -401,6 +407,7 @@ def generate_report(top_candidates):
     
     # Save report
     os.makedirs('results', exist_ok=True)
+    print(f"Total rows in report: {len(report_rows)}")
     report_df = pd.DataFrame(report_rows)
     report_df.to_csv(
         'results/top20_drug_targets.csv', 
@@ -472,8 +479,10 @@ if __name__ == "__main__":
         FASTA_FILES,
         human_proteins
     )
+    print(f"Proteins after selectivity filter: {len(filtered)}")
     
     # Stage 5: Final ranking
+    print(f"Proteins going into ranking: {len(filtered)}")
     top20 = rank_candidates(filtered)
     
     # Stage 6: Generate report
