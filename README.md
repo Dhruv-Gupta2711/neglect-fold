@@ -13,7 +13,7 @@ Neglected tropical diseases affect over **1 billion people** worldwide yet recei
 ---
 
 ## 🔬 What this pipeline does
-'''
+```
 58,265 parasite proteins
 ↓
 Pocket Detection GNN (F1: 0.662)
@@ -23,7 +23,7 @@ Binding Affinity Model (RMSE: 0.87)
 Selectivity Filter vs human proteins
 ↓
 Top 20 ranked drug targets with explanations
-'''
+```
 ---
 
 ## 📊 Key Results
@@ -55,7 +55,7 @@ Top 20 ranked drug targets with explanations
 Neglect-Fold uses a dual-network Graph Neural Network architecture:
 
 ### Pocket Detection GNN
-'''
+```
 Protein 3D Structure
 ↓
 ┌─────────────────┐   ┌─────────────────┐
@@ -67,9 +67,9 @@ Protein 3D Structure
 Fusion Network
 ↓
 Pocket probability per residue
-'''
+```
 ### Binding Affinity Model
-'''
+```
 Protein Pocket + Drug Molecule
 ↓
 ┌─────────────┐   ┌─────────────┐
@@ -80,11 +80,11 @@ Protein Pocket + Drug Molecule
 Fusion Network
 ↓
 Predicted pIC50
-'''
+```
 ---
 
 ## 📁 Project Structure
-'''
+```
 neglect-fold/
 ├── data/
 │   ├── raw/                    # Downloaded proteomes + ChEMBL
@@ -107,7 +107,7 @@ neglect-fold/
 ├── train_gnn.py            # Model training
 ├── explain_predictions.py  # SHAP explainability
 └── pipeline.py             # End-to-end pipeline
-'''
+```
 ---
 
 ## 🚀 Quick Start
