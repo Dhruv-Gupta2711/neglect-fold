@@ -1,0 +1,11 @@
+rank,protein_id,disease,organism,pocket_score,final_score,human_similarity_pct,best_compound_pIC50,best_compound_smiles
+1,A0A504XCF9,Leishmaniasis,leishmania_donovani,0.7003,0.7419,5.16,6.276,CC/C(=N\N=C(\N)S)c1ccccc1
+2,A0A1W5T6S7,Leishmaniasis,leishmania_donovani,0.5817,0.7075,5.65,6.191,CC/C(=N\N=C(\N)S)c1ccccc1
+3,A0A504XCF0,Leishmaniasis,leishmania_donovani,0.6257,0.7073,5.7,6.165,CC/C(=N\N=C(\N)S)c1ccccc1
+4,A0A504XNJ5,Leishmaniasis,leishmania_donovani,0.6329,0.7055,5.45,6.207,CC/C(=N\N=C(\N)S)c1ccccc1
+5,A0A504XT18,Leishmaniasis,leishmania_donovani,0.6321,0.6755,6.02,6.244,CC/C(=N\N=C(\N)S)c1ccccc1
+6,Q8T7E0,Leishmaniasis,leishmania_donovani,0.6555,0.6752,5.13,6.22,CC/C(=N\N=C(\N)S)c1ccccc1
+7,A0A504XVI1,Leishmaniasis,leishmania_donovani,0.6614,0.668,5.58,6.164,CC/C(=N\N=C(\N)S)c1ccccc1
+8,O00874,Leishmaniasis,leishmania_donovani,0.6726,0.662,6.57,6.146,CC/C(=N\N=C(\N)S)c1ccccc1
+9,A0A504XT06,Leishmaniasis,leishmania_donovani,0.5874,0.6372,6.19,6.231,CC/C(=N\N=C(\N)S)c1ccccc1
+10,A0A1W5T6S8,Leishmaniasis,leishmania_donovani,0.5787,0.6261,5.65,6.248,CC/C(=N\N=C(\N)S)c1ccccc1

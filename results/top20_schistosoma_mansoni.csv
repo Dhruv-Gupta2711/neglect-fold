@@ -1,0 +1,11 @@
+rank,protein_id,disease,organism,pocket_score,final_score,human_similarity_pct,best_compound_pIC50,best_compound_smiles
+1,G4VJD6,Schistosomiasis,schistosoma_mansoni,0.842,0.7799,5.08,6.192,CC/C(=N\N=C(\N)S)c1ccccc1
+2,G4VB10,Schistosomiasis,schistosoma_mansoni,0.813,0.7783,7.25,6.127,CC/C(=N\N=C(\N)S)c1ccccc1
+3,A0A5K4ELH4,Schistosomiasis,schistosoma_mansoni,0.72,0.7671,6.36,6.186,CC/C(=N\N=C(\N)S)c1ccccc1
+4,P15964,Schistosomiasis,schistosoma_mansoni,0.8241,0.7607,3.67,6.091,CC/C(=N\N=C(\N)S)c1ccccc1
+5,Q06814,Schistosomiasis,schistosoma_mansoni,0.866,0.758,6.87,6.228,CC/C(=N\N=C(\N)S)c1ccccc1
+6,C4QH88,Schistosomiasis,schistosoma_mansoni,0.6321,0.7274,5.31,6.28,CC/C(=N\N=C(\N)S)c1ccccc1
+7,P16641,Schistosomiasis,schistosoma_mansoni,0.6467,0.7165,5.31,6.185,CC/C(=N\N=C(\N)S)c1ccccc1
+8,P41759,Schistosomiasis,schistosoma_mansoni,0.6322,0.7163,6.79,6.236,CC/C(=N\N=C(\N)S)c1ccccc1
+9,G4V9W8,Schistosomiasis,schistosoma_mansoni,0.6849,0.7116,5.21,6.185,CC/C(=N\N=C(\N)S)c1ccccc1
+10,Q26551,Schistosomiasis,schistosoma_mansoni,0.7253,0.7081,5.16,6.141,CC/C(=N\N=C(\N)S)c1ccccc1

@@ -351,7 +351,7 @@ def rank_candidates(all_proteins):
     # Sort by final score
     scored.sort(key=lambda x: x['final_score'], reverse=True)
     
-    return scored[:20]  # Top 20
+    return scored  # Return all, we rank per organism in report
 
 # ============================================================
 # Stage 6: Generate Report
@@ -359,65 +359,106 @@ def rank_candidates(all_proteins):
 
 def generate_report(top_candidates):
     """
-    Generates the final drug target report.
-    This is the main output of the whole project!
+    Generates separate top 20 reports for each disease.
     """
     print("\n" + "="*60)
     print("NEGLECT-FOLD: TOP DRUG TARGET CANDIDATES")
     print("="*60)
     
-    report_rows = []
+    # Separate by organism
+    organisms = {
+        "trypanosoma_cruzi": "Chagas Disease",
+        "leishmania_donovani": "Leishmaniasis",
+        "schistosoma_mansoni": "Schistosomiasis"
+    }
     
-    for rank, protein in enumerate(top_candidates, 1):
-        protein_id = protein['protein_id']
-        organism = protein['organism']
-        pocket_score = protein['pocket_score']
-        final_score = protein['final_score']
-        human_identity = protein.get('max_human_identity', 0)
-        top_compounds = protein.get('top_compounds', [])
-        
-        print(f"\nRank {rank}: {protein_id}")
-        print(f"  Organism: {organism}")
-        print(f"  Pocket Score: {pocket_score:.4f}")
-        print(f"  Final Score: {final_score:.4f}")
-        print(f"  Human Similarity: {human_identity:.1f}%")
-        
-        if top_compounds:
-            best = top_compounds[0]
-            print(f"  Best Compound pIC50: "
-                  f"{best['predicted_pIC50']:.3f}")
-        
-        row = {
-            'rank': rank,
-            'protein_id': protein_id,
-            'organism': organism,
-            'pocket_score': pocket_score,
-            'final_score': final_score,
-            'human_similarity_pct': human_identity,
-            'best_compound_pIC50': (
-                top_compounds[0]['predicted_pIC50'] 
-                if top_compounds else None
-            ),
-            'best_compound_smiles': (
-                top_compounds[0]['smiles'][:50] 
-                if top_compounds else None
-            )
-        }
-        report_rows.append(row)
+    all_report_rows = []
+    organism_reports = {}
     
-    # Save report
+    for organism, disease_name in organisms.items():
+        # Filter proteins for this organism
+        org_proteins = [
+            p for p in top_candidates 
+            if p['organism'] == organism
+        ]
+        
+        if not org_proteins:
+            print(f"\nNo candidates found for {disease_name}")
+            continue
+        
+        print(f"\n{'='*60}")
+        print(f"TOP TARGETS FOR {disease_name.upper()}")
+        print(f"Organism: {organism.replace('_', ' ').title()}")
+        print(f"{'='*60}")
+        
+        org_rows = []
+        
+        for rank, protein in enumerate(org_proteins[:20], 1):
+            protein_id = protein['protein_id']
+            pocket_score = protein['pocket_score']
+            final_score = protein['final_score']
+            human_identity = protein.get('max_human_identity', 0)
+            top_compounds = protein.get('top_compounds', [])
+            
+            print(f"\nRank {rank}: {protein_id}")
+            print(f"  Disease: {disease_name}")
+            print(f"  Pocket Score: {pocket_score:.4f}")
+            print(f"  Final Score: {final_score:.4f}")
+            print(f"  Human Similarity: {human_identity:.1f}%")
+            
+            if top_compounds:
+                best = top_compounds[0]
+                print(f"  Best Compound pIC50: "
+                      f"{best['predicted_pIC50']:.3f}")
+            
+            row = {
+                'rank': rank,
+                'protein_id': protein_id,
+                'disease': disease_name,
+                'organism': organism,
+                'pocket_score': pocket_score,
+                'final_score': final_score,
+                'human_similarity_pct': human_identity,
+                'best_compound_pIC50': (
+                    top_compounds[0]['predicted_pIC50']
+                    if top_compounds else None
+                ),
+                'best_compound_smiles': (
+                    top_compounds[0]['smiles'][:50]
+                    if top_compounds else None
+                )
+            }
+            org_rows.append(row)
+            all_report_rows.append(row)
+        
+        # Save per-disease report
+        org_df = pd.DataFrame(org_rows)
+        org_filename = (
+            f"results/top20_{organism}.csv"
+        )
+        org_df.to_csv(org_filename, index=False)
+        organism_reports[disease_name] = org_df
+        print(f"\nSaved: {org_filename}")
+    
+    # Save combined report
     os.makedirs('results', exist_ok=True)
-    print(f"Total rows in report: {len(report_rows)}")
-    report_df = pd.DataFrame(report_rows)
-    report_df.to_csv(
-        'results/top20_drug_targets.csv', 
+    combined_df = pd.DataFrame(all_report_rows)
+    combined_df.to_csv(
+        'results/top20_drug_targets.csv',
         index=False
     )
     
-    print("\n" + "="*60)
-    print(f"Report saved to results/top20_drug_targets.csv")
+    # Print summary
+    print(f"\n{'='*60}")
+    print("SUMMARY")
+    print(f"{'='*60}")
+    for disease_name, df in organism_reports.items():
+        print(f"{disease_name}: {len(df)} candidates identified")
     
-    return report_df
+    print(f"\nTotal rows in report: {len(all_report_rows)}")
+    print("Combined report: results/top20_drug_targets.csv")
+    
+    return combined_df
 
 # ============================================================
 # Main Pipeline

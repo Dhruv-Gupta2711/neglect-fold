@@ -1,21 +1,31 @@
-rank,protein_id,organism,pocket_score,final_score,human_similarity_pct,best_compound_pIC50,best_compound_smiles
-1,G4VJD6,schistosoma_mansoni,0.842,0.8433,5.08,6.342,CC/C(=N\N=C(\N)S)c1ccccc1
-2,Q4CQJ5,trypanosoma_cruzi,0.8722,0.8165,6.3,6.222,CC/C(=N\N=C(\N)S)c1ccccc1
-3,P15964,schistosoma_mansoni,0.8241,0.8108,3.67,6.266,CC/C(=N\N=C(\N)S)c1ccccc1
-4,Q4CMY9,trypanosoma_cruzi,0.7336,0.7876,5.26,6.321,CC/C(=N\N=C(\N)S)c1ccccc1
-5,G4VB10,schistosoma_mansoni,0.813,0.7778,7.25,6.164,CC/C(=N\N=C(/S)Nc1ccccc1)c1cccc(Br)c1
-6,Q06814,schistosoma_mansoni,0.866,0.7721,6.87,6.188,CC/C(=N\N=C(\N)S)c1ccccc1
-7,A0A5K4ELH4,schistosoma_mansoni,0.72,0.7645,6.36,6.086,CC/C(=N\N=C(\N)S)c1ccccc1
-8,Q4CPZ0,trypanosoma_cruzi,0.7861,0.7525,10.22,6.246,CC/C(=N\N=C(\N)S)c1ccccc1
-9,A0A504XVI1,leishmania_donovani,0.6614,0.7496,5.58,6.236,CC/C(=N\N=C(\N)S)c1ccccc1
-10,G4V9W8,schistosoma_mansoni,0.6849,0.7308,5.21,6.157,CC/C(=N\N=C(\N)S)c1ccccc1
-11,Q26551,schistosoma_mansoni,0.7253,0.727,5.16,6.226,CC/C(=N\N=C(\N)S)c1ccccc1
-12,P41759,schistosoma_mansoni,0.6322,0.725,6.79,6.235,CC/C(=N\N=C(\N)S)c1ccccc1
-13,A0A504XCF9,leishmania_donovani,0.7003,0.7224,5.16,6.268,CC/C(=N\N=C(\N)S)c1ccccc1
-14,O00874,leishmania_donovani,0.6726,0.7196,6.57,6.193,CC/C(=N\N=C(\N)S)c1ccccc1
-15,C4QH88,schistosoma_mansoni,0.6321,0.7067,5.31,6.269,CC/C(=N\N=C(\N)S)c1ccccc1
-16,Q4CPE5,trypanosoma_cruzi,0.6086,0.7065,5.02,6.176,CC/C(=N\N=C(\N)S)c1ccccc1
-17,A0A504XNJ5,leishmania_donovani,0.6329,0.6891,5.45,6.113,CC/C(=N\N=C(\N)S)c1ccccc1
-18,P16641,schistosoma_mansoni,0.6467,0.6762,5.31,6.141,CC/C(=N\N=C(\N)S)c1ccccc1
-19,A0A1W5T6S7,leishmania_donovani,0.5817,0.6759,5.65,6.195,CC/C(=N\N=C(\N)S)c1ccccc1
-20,Q8T7E0,leishmania_donovani,0.6555,0.6743,5.13,6.15,CC/C(=N\N=C(\N)S)c1ccccc1
+rank,protein_id,disease,organism,pocket_score,final_score,human_similarity_pct,best_compound_pIC50,best_compound_smiles
+1,Q4CPZ0,Chagas Disease,trypanosoma_cruzi,0.7861,0.8022,10.22,6.113,CC/C(=N\N=C(\N)S)c1ccccc1
+2,Q4CQJ5,Chagas Disease,trypanosoma_cruzi,0.8722,0.7785,6.3,6.241,CC/C(=N\N=C(\N)S)c1ccccc1
+3,Q4CMY9,Chagas Disease,trypanosoma_cruzi,0.7336,0.7137,5.26,6.256,CC/C(=N\N=C(\N)S)c1ccccc1
+4,Q4CMV5,Chagas Disease,trypanosoma_cruzi,0.6051,0.6949,6.09,6.282,CC/C(=N\N=C(\N)S)c1ccccc1
+5,Q2VLK8,Chagas Disease,trypanosoma_cruzi,0.6001,0.6828,6.56,6.223,CC/C(=N\N=C(\N)S)c1ccccc1
+6,Q4CQW8,Chagas Disease,trypanosoma_cruzi,0.5977,0.6784,4.78,6.283,CC/C(=N\N=C(\N)S)c1ccccc1
+7,Q4CPE5,Chagas Disease,trypanosoma_cruzi,0.6086,0.6588,5.02,6.161,CC/C(=N\N=C(\N)S)c1ccccc1
+8,Q4DHB3,Chagas Disease,trypanosoma_cruzi,0.5588,0.6497,6.14,6.171,CC/C(=N\N=C(\N)S)c1ccccc1
+9,Q4DUK7,Chagas Disease,trypanosoma_cruzi,0.5524,0.6217,6.05,6.152,CC/C(=N\N=C(\N)S)c1ccccc1
+10,Q4CPE3,Chagas Disease,trypanosoma_cruzi,0.5494,0.6213,4.54,6.204,CC/C(=N\N=C(\N)S)c1ccccc1
+1,A0A504XCF9,Leishmaniasis,leishmania_donovani,0.7003,0.7419,5.16,6.276,CC/C(=N\N=C(\N)S)c1ccccc1
+2,A0A1W5T6S7,Leishmaniasis,leishmania_donovani,0.5817,0.7075,5.65,6.191,CC/C(=N\N=C(\N)S)c1ccccc1
+3,A0A504XCF0,Leishmaniasis,leishmania_donovani,0.6257,0.7073,5.7,6.165,CC/C(=N\N=C(\N)S)c1ccccc1
+4,A0A504XNJ5,Leishmaniasis,leishmania_donovani,0.6329,0.7055,5.45,6.207,CC/C(=N\N=C(\N)S)c1ccccc1
+5,A0A504XT18,Leishmaniasis,leishmania_donovani,0.6321,0.6755,6.02,6.244,CC/C(=N\N=C(\N)S)c1ccccc1
+6,Q8T7E0,Leishmaniasis,leishmania_donovani,0.6555,0.6752,5.13,6.22,CC/C(=N\N=C(\N)S)c1ccccc1
+7,A0A504XVI1,Leishmaniasis,leishmania_donovani,0.6614,0.668,5.58,6.164,CC/C(=N\N=C(\N)S)c1ccccc1
+8,O00874,Leishmaniasis,leishmania_donovani,0.6726,0.662,6.57,6.146,CC/C(=N\N=C(\N)S)c1ccccc1
+9,A0A504XT06,Leishmaniasis,leishmania_donovani,0.5874,0.6372,6.19,6.231,CC/C(=N\N=C(\N)S)c1ccccc1
+10,A0A1W5T6S8,Leishmaniasis,leishmania_donovani,0.5787,0.6261,5.65,6.248,CC/C(=N\N=C(\N)S)c1ccccc1
+1,G4VJD6,Schistosomiasis,schistosoma_mansoni,0.842,0.7799,5.08,6.192,CC/C(=N\N=C(\N)S)c1ccccc1
+2,G4VB10,Schistosomiasis,schistosoma_mansoni,0.813,0.7783,7.25,6.127,CC/C(=N\N=C(\N)S)c1ccccc1
+3,A0A5K4ELH4,Schistosomiasis,schistosoma_mansoni,0.72,0.7671,6.36,6.186,CC/C(=N\N=C(\N)S)c1ccccc1
+4,P15964,Schistosomiasis,schistosoma_mansoni,0.8241,0.7607,3.67,6.091,CC/C(=N\N=C(\N)S)c1ccccc1
+5,Q06814,Schistosomiasis,schistosoma_mansoni,0.866,0.758,6.87,6.228,CC/C(=N\N=C(\N)S)c1ccccc1
+6,C4QH88,Schistosomiasis,schistosoma_mansoni,0.6321,0.7274,5.31,6.28,CC/C(=N\N=C(\N)S)c1ccccc1
+7,P16641,Schistosomiasis,schistosoma_mansoni,0.6467,0.7165,5.31,6.185,CC/C(=N\N=C(\N)S)c1ccccc1
+8,P41759,Schistosomiasis,schistosoma_mansoni,0.6322,0.7163,6.79,6.236,CC/C(=N\N=C(\N)S)c1ccccc1
+9,G4V9W8,Schistosomiasis,schistosoma_mansoni,0.6849,0.7116,5.21,6.185,CC/C(=N\N=C(\N)S)c1ccccc1
+10,Q26551,Schistosomiasis,schistosoma_mansoni,0.7253,0.7081,5.16,6.141,CC/C(=N\N=C(\N)S)c1ccccc1
