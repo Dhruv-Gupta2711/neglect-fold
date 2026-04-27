@@ -215,7 +215,7 @@ def train_model(graphs, num_epochs=50):
     # Loss function - Binary Cross Entropy
     # Measures how wrong our predictions are
     # pos_weight handles imbalanced data (few pocket vs many non-pocket)
-    pos_weight = torch.tensor([7.0])  # pocket residues are ~1/8 of total
+    
     criterion = nn.BCELoss()
     
     # Learning rate scheduler - reduces lr when progress stalls

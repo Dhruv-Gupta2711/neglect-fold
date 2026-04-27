@@ -23,41 +23,16 @@ OUTPUT_DIR = "data/processed/training"
 # Each one is a protein structure with a drug already bound to it
 # We know EXACTLY where the pocket is in these structures
 NTD_PDB_ENTRIES = [
-    # Trypanosoma cruzi proteins with bound ligands
-    "1CL8",   # T. cruzi GAPDH with inhibitor
-    "3MFP",   # T. cruzi cruzain with inhibitor
-    "2H7S",   # T. cruzi trans-sialidase
-    "2OT6",   # T. cruzi TIM with ligand
-    "1U0D",   # T. cruzi DHFR-TS
-    "4KOY",   # T. cruzi cruzain with new inhibitor
-    "2OZ2",   # T. cruzi pteridine reductase
-    "3ITF",   # T. cruzi trypanothione reductase
-    "1AON",   # T. cruzi GroEL chaperonin
-    "3L4Q",   # T. cruzi CYP51 with inhibitor
-    
-    # Leishmania proteins with bound ligands
-    "2JK6",   # L. donovani DHFR with inhibitor
-    "3RGF",   # Leishmania pteridine reductase
-    "1E7W",   # Leishmania DHFR-TS
-    "2BFA",   # Leishmania trypanothione reductase
-    "3GRS",   # Leishmania GSH reductase
-    "3KCU",   # L. major pteridine reductase
-    "2XFA",   # Leishmania N-myristoyltransferase
-    "3MHR",   # Leishmania trypanothione synthetase
-    "4OAE",   # L. donovani CYP51
-    "2YNF",   # Leishmania MAPK with inhibitor
-    
-    # Schistosoma proteins with bound ligands
-    "4CGO",   # S. mansoni kinase
-    "2V6O",   # S. mansoni HDAC
-    "3QQ4",   # S. mansoni thioredoxin reductase
-    "4MQT",   # S. mansoni carbonic anhydrase
-    "4CQF",   # S. mansoni HDAC8 with inhibitor
-    "3ZMQ",   # S. mansoni GST with inhibitor
-    "4FTP",   # S. mansoni phosphoglycerate mutase
-    "3O8O",   # S. mansoni adenosine kinase
-    "4CAD",   # S. mansoni GST
-    "3ZYT",   # S. mansoni HDAC with new inhibitor
+    "1CL8",
+    "3MFP", 
+    "2H7S",
+    "2JK6",
+    "3RGF",
+    "1E7W",
+    "2BFA",
+    "3GRS",
+    "4CGO",
+    "2V6O",
 ]
 
 def download_pdb(pdb_id):
