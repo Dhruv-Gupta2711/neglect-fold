@@ -24,7 +24,7 @@ OUTPUT_DIR = "data/processed/training"
 # We know EXACTLY where the pocket is in these structures
 NTD_PDB_ENTRIES = [
     "1CL8",
-    "3MFP", 
+    "3MFP",
     "2H7S",
     "2JK6",
     "3RGF",
