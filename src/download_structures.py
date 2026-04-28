@@ -23,7 +23,7 @@ ALPHAFOLD_API = "https://alphafold.ebi.ac.uk/api/prediction"
 OUTPUT_DIR = "data/processed/structures"
 
 # Download 50 per organism for now (full download later on cloud)
-PROTEINS_PER_ORGANISM = 50
+PROTEINS_PER_ORGANISM = 200
 
 def extract_uniprot_id(protein_id):
     """
