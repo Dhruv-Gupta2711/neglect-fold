@@ -116,7 +116,7 @@ def load_all_training_data():
     """
     print("Loading training data...")
     
-    training_dir = "data/processed/training_v2"
+    training_dir = "data/processed/training_full"
     summary_path = f"{training_dir}/training_summary.csv"
     
     if not os.path.exists(summary_path):
