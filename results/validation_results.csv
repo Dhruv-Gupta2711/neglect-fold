@@ -1,0 +1,31 @@
+rank,protein_id,organism,final_score,protein_name,function,classification,known_drug_target
+1,Q4CPV0,trypanosoma_cruzi,0.5532,adenylate cyclase,Could act as a receptor for an unknown ligand,HYPOTHESIZED,False
+2,Q4DCH3,trypanosoma_cruzi,0.5487,Thymine dioxygenase JBP2,Dioxygenase that catalyzes the first step of DNA base J (beta-d-glucosyl-HOMedU) biosynthesis by converting thymine to 5-hydroxymethyluracil (HOMedU). DNA base J is a hypermodified thymidine residue f,HYPOTHESIZED,False
+3,Q4DJW7,trypanosoma_cruzi,0.5394,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN",,NOVEL CANDIDATE,False
+4,Q4E409,trypanosoma_cruzi,0.5227,Vacuolar transporter chaperone complex subunit 4,"Component of a polyphosphate synthase complex that utilizes ATP to synthesize and translocate polyphosphate to acidocalcisomes in epimastigotes, insect-stages of Trypanosoma brucei (PubMed:24386955). ",HYPOTHESIZED,False
+5,Q4CPU1,trypanosoma_cruzi,0.4693,DNA 3'-5' helicase,,NOVEL CANDIDATE,False
+6,Q4CNI2,trypanosoma_cruzi,0.4638,adenylate cyclase,Could act as a receptor for an unknown ligand,HYPOTHESIZED,False
+7,Q9GT49,trypanosoma_cruzi,0.4271,Trypanothione synthetase,"Bifunctional enzyme which catalyzes the formation of trypanothione (N(1),N(8)-bis(glutathionyl)spermidine) from glutathione and spermidine. Converts spermidine or glutathionylspermidine into trypanoth",HYPOTHESIZED,False
+8,Q4CPE5,trypanosoma_cruzi,0.4239,Leishmanolysin-like peptidase,,NOVEL CANDIDATE,False
+9,Q4CPE3,trypanosoma_cruzi,0.4028,Leishmanolysin-like peptidase,,NOVEL CANDIDATE,False
+10,Q4CNL4,trypanosoma_cruzi,0.4,tRNA (guanine(37)-N(1))-methyltransferase 1,Specifically methylates the N1 position of guanosine-37 in various cytoplasmic and mitochondrial tRNAs. Methylation is not dependent on the nature of the nucleoside 5' of the target nucleoside. This i,HYPOTHESIZED,False
+1,Q8T7E0,leishmania_donovani,0.5972,Endoplasmin homolog,"Molecular chaperone that functions in the processing and transport of secreted proteins (By similarity). Required for the synthesis of lipophosphoglycan (LPG), a cell surface glycoconjugate (PubMed:12",HYPOTHESIZED,False
+2,A0A504XCF0,leishmania_donovani,0.5633,ATP-dependent DNA helicase,Has an integral role during the infection of macrophages in the mammalian host,HYPOTHESIZED,False
+3,A0A504XNJ5,leishmania_donovani,0.5551,ATP-dependent DNA helicase,Has an integral role during the infection of macrophages in the mammalian host,HYPOTHESIZED,False
+4,A0A504XVI1,leishmania_donovani,0.5433,ATP-dependent DNA helicase,Has an integral role during the infection of macrophages in the mammalian host,HYPOTHESIZED,False
+5,A0A504XT06,leishmania_donovani,0.5366,ATP-dependent DNA helicase,Has an integral role during the infection of macrophages in the mammalian host,HYPOTHESIZED,False
+6,A0A504XCF9,leishmania_donovani,0.5316,ATP-dependent DNA helicase,Has an integral role during the infection of macrophages in the mammalian host,HYPOTHESIZED,False
+7,Q27675,leishmania_donovani,0.5136,Receptor-type adenylate cyclase A,Could act as a receptor for an unknown ligand,HYPOTHESIZED,False
+8,A0A504XT18,leishmania_donovani,0.4825,ATP-dependent DNA helicase,Has an integral role during the infection of macrophages in the mammalian host,HYPOTHESIZED,False
+9,A0A504X6L5,leishmania_donovani,0.4804,"Ubiquinone biosynthesis O-methyltransferase, mitochondrial","O-methyltransferase required for two non-consecutive steps during ubiquinone biosynthesis. Catalyzes the 2 O-methylation of 3,4-dihydroxy-5-(all-trans-polyprenyl)benzoic acid into 4-hydroxy-3-methoxy-",HYPOTHESIZED,False
+10,A0A3Q8IGM2,leishmania_donovani,0.4748,"Ubiquinone biosynthesis O-methyltransferase, mitochondrial","O-methyltransferase required for two non-consecutive steps during ubiquinone biosynthesis. Catalyzes the 2 O-methylation of 3,4-dihydroxy-5-(all-trans-polyprenyl)benzoic acid into 4-hydroxy-3-methoxy-",HYPOTHESIZED,False
+1,A0A5K4EKK0,schistosoma_mansoni,0.5042,Phosphatidylserine synthase,Catalyzes a base-exchange reaction in which the polar head group of phosphatidylethanolamine (PE) is replaced by L-serine,HYPOTHESIZED,False
+2,A0A3Q0KHE7,schistosoma_mansoni,0.4946,Probable histone-arginine methyltransferase CARM1,Methylates (mono- and asymmetric dimethylation) the guanidino nitrogens of arginyl residues in proteins (By similarity). May methylate histone H3 and activate transcription via chromatin remodeling (B,HYPOTHESIZED,False
+3,A0A3Q0KF43,schistosoma_mansoni,0.4804,ATP-dependent 6-phosphofructokinase,"Catalyzes the phosphorylation of D-fructose 6-phosphate to fructose 1,6-bisphosphate by ATP, the first committing step of glycolysis",HYPOTHESIZED,False
+4,G4VB10,schistosoma_mansoni,0.4674,Katanin p60 ATPase-containing subunit A1,Catalytic subunit of a complex which severs microtubules in an ATP-dependent manner. Microtubule severing may promote rapid reorganization of cellular microtubule arrays and the release of microtubule,HYPOTHESIZED,False
+5,G4VGI0,schistosoma_mansoni,0.4655,Uridine phosphorylase A,Catalyzes the reversible phosphorylytic cleavage of uridine and deoxyuridine to uracil and ribose- or deoxyribose-1-phosphate (PubMed:26898674). The produced molecules are then utilized as carbon and ,HYPOTHESIZED,False
+6,G4V9S0,schistosoma_mansoni,0.4579,Adenylate kinase 1,Catalyzes the reversible transfer of the terminal phosphate group between ATP and AMP (PubMed:22841753). Plays an important role in cellular energy homeostasis and in adenine nucleotide metabolism (By,HYPOTHESIZED,False
+7,A0A3Q0KR05,schistosoma_mansoni,0.4373,Beta-alanyl-bioamine nonribosomal peptide synthetase,Catalyzes the condensation of beta-alanine with tryptamine to form beta-alanyl-tryptamine (BATT) (PubMed:35385687). Beta-alanyl-tryptamine is an essential pheromone produced by the male that stimulate,HYPOTHESIZED,False
+8,G4VQL7,schistosoma_mansoni,0.4146,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN",,NOVEL CANDIDATE,False
+9,Q27778,schistosoma_mansoni,0.3911,ATP-dependent 6-phosphofructokinase,"Catalyzes the phosphorylation of D-fructose 6-phosphate to fructose 1,6-bisphosphate by ATP, the first committing step of glycolysis",HYPOTHESIZED,False
+10,A0A3Q0KLJ1,schistosoma_mansoni,0.3784,Poly [ADP-ribose] polymerase,,NOVEL CANDIDATE,False
